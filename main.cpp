@@ -16,7 +16,7 @@ void casinoGame(int num){
 
 int main(){
     int num = 0;
-    cout<<"-----------------------WELCOME YOU TO THE CASINO NUMBER GUESSING GAME-----------------------"<<endl;
+    cout<<"----------------------WELCOME YOU TO THE CASINO NUMBER GUESSING GAME-----------------------"<<endl;
     cout<<"---------------------------YOU WILL GET 1 CHANCE to WIN A PRIZE-----------------------"<<endl;
     cout<<"Choose a number between 1 - 10 : "<<endl;
     cin>>num;
